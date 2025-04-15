@@ -1,0 +1,69 @@
+#main-container{
+  border: 2px solid #c0d5ff;
+  border-radius: 7px;
+  width: 52vw;
+  margin-top: 49px;
+  background-color: #c0d5ff;
+}
+
+#first-container{
+  width: 50vw;
+  background-color: #c0d5ff;
+  margin-left: -12px;
+  height: auto;
+}
+
+#heading{
+  text-align: center;
+  color: rgb(45, 126, 192);
+}
+
+#input-group{
+  margin-bottom: 30px;
+}
+
+#button-addon2{
+  color: white;
+  font-weight: 700;
+  width: 90px;
+  font-size: 18px;
+}
+
+#button-addon2:hover{
+  font-weight: 800;
+}
+
+.listData{
+  border: 2px solid rgb(68, 139, 201);
+  font-size: 21px;
+  border-radius: 7px;
+  background-color: rgb(137, 168, 196);
+  color: black;
+  width: 60%;
+  padding-left: 8px;
+}
+
+#remove-btn{
+  position: relative;
+  top: -36px;
+  left: 61%;
+  color: black;
+  font-weight: 600;
+}
+
+#remove-btn:hover{
+  font-weight: 700;
+  background-color: transparent;
+}
+
+#removeall-btn{
+  color: black;
+  font-weight: 600;
+  width: 9vw;
+  position: relative;
+  left: 40%;
+}
+
+#removeall-btn:hover{
+  font-weight: 700;
+}
